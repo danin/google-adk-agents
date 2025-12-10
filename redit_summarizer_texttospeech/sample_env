@@ -1,0 +1,4 @@
+GOOGLE_API_KEY=""
+GOOGLE_GENAI_USE_VERTEXAI=FALSE #instructs the Google Gen AI SDK to use the Gemini Developer API endpoints instead of the Vertex AI API endpoints.
+ELEVENLABS_API_KEY= ""
+ELEVENLABS_VOICE_ID = ""
